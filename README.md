@@ -38,10 +38,6 @@ python3 testing.py
 | WARNING: this script can take a long time to run|
 | --- |
 
-Here, the user must edit `testing.py` to point to the simulation label and checkpoint of the model which is to be tested. These are specified under the variables `simulation_label` and `ckpt_val` in `testing.py`.
-
-The output of testing is a confusion table, which can be found as a numpy array in `outputs/confusion/simulation_label`. The confusion table is given for multiple threshold probabilities for a transaction to be considered as genuine.
-
 ## Visualizing the results
 
 The performance of the trained model can be investigated with:
@@ -54,7 +50,7 @@ which outputs the receiver operating characteristic (ROC) curve and confusion ma
 ## Model dependency
 1. python 3.5
 2. tensorflow <=1.3.0
-3. strawberryfields >=1.10.0
+3. strawberryfields <=1.10.0 ## higher version would't run the script
 4. scipy 
 5. numpy
 6. pip 1.18.0
