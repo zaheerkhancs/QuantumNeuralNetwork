@@ -1,6 +1,6 @@
-##ROC Curve
+## ROC Curve
 <img align="left" src="https://github.com/zaheerkhancs/QuantumNeuralNetwork/blob/master/roc.png" width=300px>
-##Confusion Matrix
+## Confusion Matrix
 <img align="left" src="https://github.com/zaheerkhancs/QuantumNeuralNetwork/blob/master/confusion.png" width=300px>
 # Fraud detection
 
