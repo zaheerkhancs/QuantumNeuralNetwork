@@ -50,3 +50,12 @@ python3 roc.py
 ```
 which outputs the receiver operating characteristic (ROC) curve and confusion matrix for the optimal threshold probability.
 
+
+## Model dependency
+1. python 3.5
+2. tensorflow <=1.3.0
+3. strawberryfields >=1.10.0
+4. scipy 
+5. numpy
+6. pip 1.18.0
+
