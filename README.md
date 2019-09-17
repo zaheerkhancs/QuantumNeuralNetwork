@@ -58,4 +58,5 @@ which outputs the receiver operating characteristic (ROC) curve and confusion ma
 4. scipy 
 5. numpy
 6. pip 1.18.0
+7. Ubuntu 16.0
 
