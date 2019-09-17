@@ -1,5 +1,7 @@
+##ROC Curve
 <img align="left" src="https://github.com/zaheerkhancs/QuantumNeuralNetwork/blob/master/roc.png" width=300px>
-
+##Confusion Matrix
+<img align="left" src="https://github.com/zaheerkhancs/QuantumNeuralNetwork/blob/master/confusion.png" width=300px>
 # Fraud detection
 
 This folder provides the source code used in Experiment B in *"Continuous-variable quantum neural networks"* [arXiv:1806.06871](https://arxiv.org/abs/1806.06871).
