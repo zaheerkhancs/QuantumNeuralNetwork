@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/XanaduAI/quantum-neural-networks/blob/master/static/fraud_detection.png" width=300px>
+<img align="left" src="https://github.com/zaheerkhancs/QuantumNeuralNetwork/blob/master/roc.png" width=300px>
 
 # Fraud detection
 
